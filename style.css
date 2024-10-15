@@ -1,0 +1,32 @@
+#img1 {
+    border: 1px solid black;
+    float: left;
+}
+#img2 {
+    border: 1px solid black;
+    float: right;
+}
+hr {
+    height: 3px;
+    width: 2000px;
+    background-color: grey;
+}
+
+p {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border: 1px solid gray;
+}
+
+#pd {
+    text-align: center;
+}
+#class {
+    text-align: center;
+}
+
+* {
+    font-variant: small-caps;
+}
